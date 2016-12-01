@@ -1,4 +1,5 @@
 # Mastering Markdown #
+[![Waffle.io](https://img.shields.io/badge/Status-Done_I_think-brightgreen.svg)]()
 
 ## Badges ##
 ```
