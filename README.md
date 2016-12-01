@@ -1,5 +1,7 @@
 # Mastering Markdown #
-[![Waffle.io](https://img.shields.io/badge/Status-Done_I_think-brightgreen.svg)]()
+[![Waffle.io](https://img.shields.io/badge/Status-Done-brightgreen.svg?style=flat)]()
+[![Waffle.io](https://img.shields.io/badge/Helpful_?-A_lot-ff69b4.svg?style=flat)]()
+
 
 ## Badges ##
 ```
@@ -24,10 +26,10 @@ Make your badge:
 	[![Waffle.io](https://img.shields.io/badge/[SUBJECT]-[STATUS]-[COLOR].svg)]()
 ```
 ```
-[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg)]()
+[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg?style=flat)]()
 ```
 
-[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg)]()
+[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg?style=flat)]()
 
 More at [shields.io](http://shields.io)
 
