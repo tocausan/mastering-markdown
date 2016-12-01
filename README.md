@@ -1,12 +1,22 @@
 # Mastering Markdown #
 
+## Badges ##
+```
+[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg)]()
+```
+
+[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg)]()
+
+More at [shields.io](http://shields.io)
+
+
 ## Text ##
 ```
 Am I **bold** or *italic* ? <br>
 Maybe I should check [online](google.com).
 ```
 Am I **bold** or *italic* ? <br>
-Maybe I should check [online](google.com).
+Maybe I should check [online](http://google.com).
 
 
 ## Lists ##
