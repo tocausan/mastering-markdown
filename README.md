@@ -26,7 +26,7 @@ Make your badge:
 	[![Waffle.io](https://img.shields.io/badge/[SUBJECT]-[STATUS]-[COLOR].svg)]()
 ```
 ```
-[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg?style=flat)]()
+[![Waffle.io](https://img.shields.io/badge/Status-Almost_done-yellow.svg?style=flat)]()
 ```
 
 [![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg?style=flat)]()
