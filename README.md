@@ -2,6 +2,27 @@
 
 ## Badges ##
 ```
+Make your badge:
+	String rules:
+		2 dashes (--): 1 dash (-)
+		2 underscores (__): 1 underscore (_)
+		1 space ( ) or 1 underscore (_): 1 space () 
+		color: hex code or color name
+	
+	More parameters:
+		?style: [plastic, flat, flat-square, social]
+		?label: healthinesses (Override the default left-hand-side text)
+		?logo: data:image/png;base64... (Insert logo image (≥ 14px high))
+		?logoWidth: int (Set the horizontal space to give to the logo)
+		?link: link (Specify what clicking on the left/right of a badge should do (esp. for social badge style))
+		?colorA: hex (Set background of the left part)
+		?colorB: hex (Set background of the right part)
+		?maxAge: int (Set the HTTP cache lifetime in secs)
+
+	Template:
+	[![Waffle.io](https://img.shields.io/badge/[SUBJECT]-[STATUS]-[COLOR].svg)]()
+```
+```
 [![Waffle.io](https://img.shields.io/badge/Status-Almost_done-green.svg)]()
 ```
 
