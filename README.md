@@ -10,6 +10,23 @@ Maybe I should check [online](google.com).
 
 
 ## Lists ##
+```
+Numbered list
+1. One
+2. Kaksi
+3. Trois
+
+Bullet points
+* Yksi
+* Dos
+
+More Points
+- Bonjour
+	- hey
+	- moikka
+- Hola
+```
+
 Numbered list
 1. One
 2. Kaksi
@@ -56,15 +73,36 @@ More Points
 ```
     <code> You can't see this 4 spaces indented markup </code> 
 `<code> You can't see this fenced markup </code>`
-`html <code> You can't see this highlighted syntax markup </code>`
-
+\```html
+<code> You can't see this highlighted syntax markup </code>`
+\```
 ```
     <code> You can't see this 4 spaces indented markup
 `<code> You can(t see any markup </code>`
-`html <code> You can't see this highlighted syntax markup </code>`
+```html
+<code> You can't see this highlighted syntax markup </code>
+```
 
 
 ## Extras ##
+```
+Hello @tocausan !
+
+Today you'll do some tasks :
+- [x] Clean your desktop
+- [ ] Vist your grandma
+
+:sparkles: :sparkles: :sparkles:
+```
+
+Hello @tocausan !
+
+Today you'll do some tasks :
+- [x] Clean your desktop
+- [ ] Visit your grandma
+
+:sparkles: :sparkles: :sparkles:
+
 
 
 
