@@ -5,6 +5,9 @@
 Am I **bold** or *italic* ? <br>
 Maybe I should check [online](google.com)
 ```
+Am I **bold** or *italic* ? <br>
+Maybe I should check [online](google.com)
+
 
 ## Lists ##
 
