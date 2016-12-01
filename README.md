@@ -142,6 +142,8 @@ Today you'll do some tasks :
 
 
 
-
+## Ressources ##
+- [github guide: mastering-markdown](https://guides.github.com/features/mastering-markdown/)
+- [shields.io](http://shields.io)
 
 
