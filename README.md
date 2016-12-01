@@ -11,32 +11,32 @@ Maybe I should check [online](google.com).
 
 ## Lists ##
 ```
-Numbered list
+Numbered list :
 1. One
 2. Kaksi
 3. Trois
 
-Bullet points
+Bullet points :
 * Yksi
 * Dos
 
-More Points
+More Points :
 - Bonjour
 	- hey
 	- moikka
 - Hola
 ```
 
-Numbered list
+Numbered list :
 1. One
 2. Kaksi
 3. Trois
 
-Bullet points
+Bullet points :
 * Yksi
 * Dos
 
-More Points
+More Points :
 - Bonjour
 	- hey
 	- moikka
@@ -64,8 +64,13 @@ More Points
 
 
 ## Quotes ##
-> Hey this is a quote
-> - By me
+```
+> Hey this is a quote !
+> By me
+```
+
+> Hey this is a quote !
+> By me
 
 
 ## Code ##
