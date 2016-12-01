@@ -37,10 +37,10 @@ More at [shields.io](http://shields.io)
 ## Text ##
 ```
 Am I **bold** or *italic* ? <br>
-Maybe I should check [online](google.com).
+Maybe I should ~~check~~ [online](google.com).
 ```
 Am I **bold** or *italic* ? <br>
-Maybe I should check [online](http://google.com).
+Maybe I should ~~check~~ [online](http://google.com).
 
 
 ## Lists ##
@@ -78,7 +78,7 @@ More Points :
 
 
 ## Images ##
-
+Soon
 
 ## Headers ##
 ```
@@ -121,6 +121,20 @@ More Points :
 ```html
 <code> You can't see this highlighted syntax markup </code>
 ```
+
+
+## Tables ##
+```
+Header 1 | Header 2
+---------|---------
+Cell 1 | Cell 2
+Cell 3 | Cell 4
+```
+
+Header 1 | Header 2
+---------|---------
+Cell 1 | Cell 2
+Cell 3 | Cell 4
 
 
 ## Extras ##
