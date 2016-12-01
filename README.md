@@ -3,22 +3,65 @@
 ## Text ##
 ```
 Am I **bold** or *italic* ? <br>
-Maybe I should check [online](google.com)
+Maybe I should check [online](google.com).
 ```
 Am I **bold** or *italic* ? <br>
-Maybe I should check [online](google.com)
+Maybe I should check [online](google.com).
 
 
 ## Lists ##
+Numbered list
+1. One
+2. Kaksi
+3. Trois
+
+Bullet points
+* Yksi
+* Dos
+
+More Points
+- Bonjour
+	- hey
+	- moikka
+- Hola
 
 
 ## Images ##
 
 
-## Headers & Quotes ##
+## Headers ##
+```
+# Heade 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######
+```
+# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######
+
+
+## Quotes ##
+> Hey this is a quote
+> - By me
 
 
 ## Code ##
+
+```
+    <code> You can't see this 4 spaces indented markup </code> 
+`<code> You can't see this fenced markup </code>`
+`html <code> You can't see this highlighted syntax markup </code>`
+
+```
+    <code> You can't see this 4 spaces indented markup
+`<code> You can(t see any markup </code>`
+`html <code> You can't see this highlighted syntax markup </code>`
 
 
 ## Extras ##
