@@ -1,6 +1,6 @@
 # Mastering Markdown #
 [![Waffle.io](https://img.shields.io/badge/Status-Complete-brightgreen.svg?style=flat)]()
-[![Waffle.io](https://img.shields.io/badge/Helpful-A_lot-ff69b4.svg?style=flat)]()
+[![Waffle.io](https://img.shields.io/badge/Helpful_%3F-A_lot-ff69b4.svg?style=flat)]()
 
 
 ## Badges ##
